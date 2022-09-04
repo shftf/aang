@@ -1,0 +1,211 @@
+header{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+}
+
+.card-box{
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 10rem;
+    padding-bottom: 8rems;
+}
+.heder-1{
+  position: relative;
+  justify-content: center;
+  font-family: 'Rubik Moonrocks', cursive;
+  display: flex;
+  background: wheat;
+}
+
+.foot{
+
+
+    width: 100%;
+    text-align: center;
+    padding: 8rem;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+}
+.foot-2{
+    color: white;
+
+}
+
+    
+
+.posisi{
+    position: absolute;
+    left: 30%;
+    bottom: 0;
+    right: 0;
+    top: 100%;
+    color: aquamarine;
+}
+.cntn{
+    padding-top: 10rem;
+    background-color:rgb(179, 101, 101);
+}
+.conten1{
+    position: relative;
+    background-color:rgb(179, 101, 101);
+    width: 100%;
+    height: 200vh;
+    font-family: 'Qwitcher Grypen', cursive;
+    
+}
+.gambarcontenn{
+    position: absolute;
+    /* z-index: 1; */
+    top: 0%;
+    bottom: 0%;
+    left: 13%;
+    right:0x;
+}
+.gambarconten{
+    
+        width: 400px;
+        height: 300px;
+        border-radius: 100%;
+    
+}
+.judulconten1{
+
+    position: absolute;
+    
+    top: 15%;
+    bottom: 80%;
+    left: 70%;
+    right:20px;
+}
+.isiconten{
+
+    position: absolute;
+    top: 20%;
+    bottom: 80%;
+    left: 70%;
+    right:20px;
+    width: 300px;
+    height: 400px;
+}
+
+.judulconten2{
+
+    position: absolute;
+    
+    top: 50%;
+    bottom: 80%;
+    left: 20%;
+    right:20px;
+}
+.imgconten{
+
+    position: absolute;
+    top: 50%;
+    bottom: 0%;
+    left: 5%;
+    right:20px;
+    border-radius: 80%;
+}
+.katabijak1{
+
+    text-transform: capitalize;
+    font-family: 'Lobster', cursive;
+    font-size: 23px;
+    text-align: center;
+    position: absolute;
+    left: 10px;
+    top: 40%;
+
+}
+.katabijak2{
+    text-transform: capitalize;
+    font-family: 'Great Vibes', cursive;
+    font-size: 23px;
+    text-align: center;
+    position: absolute;
+    top: 70%;
+    bottom: 80%;
+    left: 50%;
+    right:0;
+
+}
+
+
+
+
+.conten2{
+    background-image: url('bg 2.jpg');
+    width: 100%;
+    height: 20%;
+}
+.kepalaberuang{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 70%;
+    
+
+}
+
+
+
+
+
+
+
+/* foter */
+footer{
+    position: relative;
+    width: 100%;
+    height: 10px;
+}
+.foter1{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 50px;
+    right: 0;
+    bottom: 0;
+    top: 290%;
+;
+}
+.m-5{
+
+    position: absolute;
+    text-align: start;
+    top: 200%;
+  
+}
+.row-cols-3{
+    position: absolute;
+    text-align: end;
+    top: 1000%;
+}
+.fa-facebook{
+
+    position: absolute;
+    left: 98%;
+    right: 80%;
+    bottom: 0;
+    top: 290%;
+    
+}
+.fa-square-instagram{
+    position: absolute;
+    left: 96%;
+    right: 80%;
+    bottom: 0;
+    top: 290%;
+}
+.fa-square-twitter{
+    position: absolute;
+    left: 94%;
+    right: 80%;
+    bottom: 0;
+    top: 290%;
+}
